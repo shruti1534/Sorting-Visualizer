@@ -1,0 +1,35 @@
+.btn-custom{
+    background-color: rgb(18, 18, 77);
+}
+.main{
+    background-color: rgb(150, 178, 230);
+}
+.font {
+    font-family: 'Do Hyeon', sans-serif;
+}
+.font2 {
+    font-family: cursive;
+}
+.btn-dark:hover {
+    background-color: #2261e9;
+}
+.addon{
+    width: 18%;
+    height: 50%;
+    top: 40%;
+    background-color: #ebeab6;
+}
+
+.mystyle {
+    background: rgb(230, 150, 190);
+    border: 1pt solid black;
+    width: 17px;
+    transition: 0.1s all ease;
+    display: inline-block;
+}
+
+.position {
+    position: absolute;
+    right: 20px;
+    top: 150px;
+}
